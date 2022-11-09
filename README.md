@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaximNazarov
 - 👀 I’m interested in Web development, pentesting, writing telegram bots :)
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me maximnazarovv@gmail.com
 
